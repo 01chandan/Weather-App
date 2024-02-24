@@ -1,12 +1,11 @@
 # Weather App
 
-This Weather App is a simple web application that fetches real-time weather information using the OpenWeather API. The implementation is done in JavaScript, and the UI is styled using Tailwind CSS.
+This Weather App is a simple web application that fetches real-time weather information using the OpenWeatherMap API. The implementation is done in JavaScript, and the UI is styled using HTML & CSS.
 
 ## Features
 
 - Display current weather information based on user location or a user-provided city name.
 - Dynamic updates using the OpenWeather API.
-- Responsive UI design with Tailwind CSS.
 
 ## Demo
 
@@ -24,8 +23,7 @@ Grant location access or enter a city name to get real-time weather information.
 
 ## Technologies Used
 JavaScript
-OpenWeather API
-Tailwind CSS
+OpenWeatherMap API
 
 ## Installation
 No special installation is required. Just clone the repository, and you're good to go.
