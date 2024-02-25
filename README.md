@@ -4,7 +4,7 @@ This Weather App is a simple web application that fetches real-time weather info
 
 ## Features
 
-- Display current weather information based on user location or a user-provided city name.
+- Display current weather information based on user location or a user-provided city name..
 - Dynamic updates using the OpenWeather API.
 
 ## Demo
